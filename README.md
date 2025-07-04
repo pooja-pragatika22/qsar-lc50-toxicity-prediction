@@ -7,15 +7,16 @@ This repository contains the final project notebook from a Machine Learning Boot
 ## 📌 Project Highlights
 
 - 📊 **Objective**: Predict LC50 values of chemicals using their QSAR (Quantitative Structure–Activity Relationship) descriptors.
-- 📁 **Dataset**: Provided as part of the bootcamp (confidential and not publicly available).
+- 📁 **Dataset**: Publicly available QSAR Fish Toxicity dataset (used for educational purposes).
 - ⚙️ **Models Used**:
   - Linear Regression
   - Ridge Regression (with hyperparameter tuning)
-  - Lasso Regression (with hyperparameter tuning)
-  - Decision Tree Regressor
+  - Lasso Regression 
+  - Decision Tree Regressor (with hyperparameter tuning)
   - Random Forest Regressor
+  - Bagging Regressor
   - AdaBoost Regressor
-  - SVR (Support Vector Regressor)
+  - SVR (Support Vector Regressor) (with hyperparameter tuning)
 
 ## 🧪 Evaluation Metrics
 
